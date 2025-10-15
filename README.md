@@ -37,12 +37,12 @@ Analitikus gondolkodás, jó kommunikációs készség
 Csapatjátékos hozzáállás
 
 
-##🎓 Előny
+🎓 Előny
 
 Azure Cloud tanúsítványok
 IT biztonsági tanúsítványok
 
 
-##📧 Jelentkezés
+📧 Jelentkezés
 Ha készen állsz a kihívásra, jelentkezz, és csatlakozz egy innovációt, együttműködést és folyamatos fejlődést támogató csapathoz!
 https://capture.eu/cv-upload
