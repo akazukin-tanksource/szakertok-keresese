@@ -1,0 +1,47 @@
+# ☁️ Pozíció: Cloud Engineer – Budapest
+
+## 📍 Helyszín és követelmények
+- **Hibrid munkavégzés**: heti 3 nap budapesti irodában  
+- **Magyar nyelvtudás**: kötelező  
+- **EU állampolgárság vagy érvényes munkavállalási engedély**: szükséges  
+
+## 🧭 Feladatok
+- Infrastrukturális kód (IaC) fejlesztése és karbantartása **Terraform** segítségével többfelhős környezetben (Azure, AWS)  
+- Megfelelő felhőszolgáltatások kiválasztása és használata az alkalmazások támogatásához  
+- Biztonsági előírásoknak megfelelő tervezés és implementáció támogatása  
+- Felhőszolgáltatások monitorozása éles környezetben és technikai problémák megoldása  
+- Költségbecslés és optimalizálás támogatása  
+- Költségcsökkentő stratégiák megvalósítása  
+- Felhőarchitektúra legjobb gyakorlatainak alkalmazása a termékfejlesztés támogatására  
+- Együttműködés agilis csapatokkal (DevOps, Biztonság, Fejlesztés, Üzlet) a gyorsabb értékteremtés érdekében  
+- Infrastruktúra telepítési folyamatok automatizálása és fejlesztése a megbízhatóság és sebesség növelésére  
+- Teljesítményanomáliák észlelése az alkalmazásokban  
+- Katasztrófa-helyreállítási stratégiák támogatása, biztonsági mentés és visszaállítás automatizálása, failover képességek biztosítása Azure és AWS környezetben  
+- Adatbiztonság támogatása hozzáférés-kezeléssel, mentés/visszaállítás fenntartásával, szabályozások alkalmazásával  
+- PaaS alapú megoldások konfigurálása, monitorozása és karbantartása  
+
+---
+
+## 🧠 Elvárt kompetenciák
+- Minimum **3+ év** tapasztalat IT infrastruktúra mérnöki vagy alkalmazásüzemeltetési területen, ebből legalább 1 év felhőalapú infrastruktúra támogatás  
+- Mély ismeretek a nyilvános/privát/hibrid felhőmegoldásokban, különös tekintettel **MS Azure** integrációra  
+- Tapasztalat **Linux/Windows** operációs rendszerekkel  
+- Tapasztalat **MS Azure** platformmal  
+- Tapasztalat **Active Directory (Azure AD)** és **Microsoft Graph API** használatában  
+- Alap programozási ismeretek (Java vagy Python előny)  
+- IT automatizálási eszközök használata: **Terraform**, **Ansible**, **Bicep**, **ARM**  
+- Verziókezelő rendszerek ismerete  
+- Konténerizációs eszközök: **Docker & Kubernetes**  
+- Titok- és konfigurációkezelés  
+
+---
+
+## 🎓 Előny
+- **Azure Cloud tanúsítványok**  
+- **IT biztonsági tanúsítványok**  
+
+---
+
+## 📧 Jelentkezés
+Töltsd fel az önéletrajzodat és elérhetőségeidet itt:  
+https://capture.eu/cv-upload
